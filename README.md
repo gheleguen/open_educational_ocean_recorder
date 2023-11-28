@@ -5,7 +5,7 @@
 
 ### 1.1 Télécharger l'archive
 
-Avant toute chose, [télécharger l'archive du projet](https://github.com/gheleguen/porte_a_poules/archive/refs/heads/main.zip). C'est dans ce dossier que se trouve tous les fichiers de documantations mais aussi les fichiers de découpes ou les modèles d'impression 3D. 
+Avant toute chose, [télécharger l'archive du projet](https://github.com/gheleguen/open_educational_ocean_recorder/archive/refs/heads/main.zip). C'est dans ce dossier que se trouve tous les fichiers de documantations mais aussi les fichiers de découpes ou les modèles d'impression 3D. 
 
 
 **Ou passer par Git Hub**
