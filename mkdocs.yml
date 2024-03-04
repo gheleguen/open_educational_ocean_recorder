@@ -7,6 +7,8 @@ nav:
   - I. Guide de fabrication:
     - 1/ Sourcer : 0-0-1_sourcer.md
     - 2/ Guide d'assemblage: 0-0-1_guide_assemblage.md
+    - Ax/ Annexes:
+      - Test capteur de température: 0-0-1_test_temp-sensor.md
   - II. Guide d'utilisation: 0-0-1_user_guide.md
   - III. Contribuer : edit-this-doc_fr.md
   - Licence: license.md
