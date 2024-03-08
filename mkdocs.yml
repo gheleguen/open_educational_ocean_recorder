@@ -9,6 +9,7 @@ nav:
     - 2/ Guide d'assemblage: 0-0-1_guide_assemblage.md
     - Ax/ Annexes:
       - Test capteur de température: 0-0-1_test_temp-sensor.md
+      - Réglage de l'horloge RTC: 0-0-1_test_set_rtc-ds3231.md
   - II. Guide d'utilisation: 0-0-1_user_guide.md
   - III. Contribuer : edit-this-doc_fr.md
   - Licence: license.md

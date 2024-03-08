@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="conect_M0_temp-sensor.svg"
+   inkscape:export-filename="/media/guillaume/D-PC/Autoentreprise/git/open_educational_ocean_recorder/docs/pictures/test_hardware/TH1-1.png"
+   inkscape:export-xdpi="190"
+   inkscape:export-ydpi="190"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -93,6 +96,16 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.165001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect81213"
+       width="296.83499"
+       height="209.83499"
+       x="0.082500502"
+       y="0.082500502"
+       inkscape:export-filename="/media/guillaume/D-PC/Autoentreprise/git/open_educational_ocean_recorder/docs/pictures/test_hardware/TH1-1.png"
+       inkscape:export-xdpi="190"
+       inkscape:export-ydpi="190" />
     <image
        width="156.10417"
        height="74.347916"
@@ -19549,11 +19562,11 @@ ZO8//Oi3SAAAAABJRU5ErkJggg==
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4116);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="605.5"
            y="312.40516"
-           id="tspan73297"><tspan
+           id="tspan81471"><tspan
              style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-             id="tspan73293">10 k</tspan><tspan
+             id="tspan81467">10 k</tspan><tspan
              style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-             id="tspan73295">Ω</tspan></tspan></text>
+             id="tspan81469">Ω</tspan></tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -19581,11 +19594,11 @@ ZO8//Oi3SAAAAABJRU5ErkJggg==
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:28.2095px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4116-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="605.5"
            y="312.40516"
-           id="tspan73303"><tspan
+           id="tspan81477"><tspan
              style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-             id="tspan73299">10 k</tspan><tspan
+             id="tspan81473">10 k</tspan><tspan
              style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-             id="tspan73301">Ω</tspan></tspan></text>
+             id="tspan81475">Ω</tspan></tspan></text>
     </g>
     <path
        style="fill:none;stroke:#c90000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -19607,9 +19620,9 @@ ZO8//Oi3SAAAAABJRU5ErkJggg==
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:20.1496px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730);fill:#00b800;fill-opacity:1;stroke:none"><tspan
          x="169.95117"
          y="150.04969"
-         id="tspan73307"><tspan
+         id="tspan81481"><tspan
            style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000"
-           id="tspan73305">noir - GND</tspan></tspan></text>
+           id="tspan81479">noir - GND</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,128.46034,32.027623)"
@@ -19617,9 +19630,9 @@ ZO8//Oi3SAAAAABJRU5ErkJggg==
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:20.1496px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-1);fill:#00b800;fill-opacity:1;stroke:none"><tspan
          x="169.95117"
          y="150.04969"
-         id="tspan73311"><tspan
+         id="tspan81485"><tspan
            style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000"
-           id="tspan73309">rouge - 3,3v</tspan></tspan></text>
+           id="tspan81483">rouge - 3,3v</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,112.776,115.85366)"
@@ -19627,9 +19640,9 @@ ZO8//Oi3SAAAAABJRU5ErkJggg==
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:20.1496px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-5);fill:#00b800;fill-opacity:1;stroke:none;stroke-width:0.623622;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="169.95117"
          y="150.04969"
-         id="tspan73315"><tspan
+         id="tspan81489"><tspan
            style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke:#000000"
-           id="tspan73313">blanc - SDA</tspan></tspan></text>
+           id="tspan81487">blanc - SDA</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,106.35798,115.85366)"
@@ -19637,8 +19650,8 @@ ZO8//Oi3SAAAAABJRU5ErkJggg==
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:20.1496px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-2);fill:#00b800;fill-opacity:1;stroke:none"><tspan
          x="169.95117"
          y="150.04969"
-         id="tspan73319"><tspan
+         id="tspan81493"><tspan
            style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           id="tspan73317">vert - SCL</tspan></tspan></text>
+           id="tspan81491">vert - SCL</tspan></tspan></text>
   </g>
 </svg>
