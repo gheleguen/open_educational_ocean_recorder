@@ -8,14 +8,18 @@
  - A l'aide d'une pince coupante, sectionner le connecteur du capteur déjà en place. Veiller à couper au plus proche du connecteur afin de conserver un maximum de fil.
  - Dénuder chacun des fils au moyen d'une pince à dénuder. 
  - Sertir au bout de chaque fil une ferrure mâle.
+
 ![Photo montrant le capteur de température et les 4 fils sertis](pictures/assembly/AG1-2.JPG)
 
 <section style="border: 2px solid red; padding: 20px; border-radius:20px; color: red;">
 Attention ! Avant de positionner les ferrures dans le bloc connecteur JST, il faudra passer le capteur dans un trou de la bride. Ceci ne pouvant pas être fait après car le connecteur ne passe pas dans la perforation de la bride. </section>
 
- - Positionner le joint torique du coté extérieur, puis passer le pénétrateur dans la bride, pour enfin serrer avec l'écrou à la main sans le bloquer. 
+ - Positionner le joint torique du coté extérieur, puis passer le pénétrateur dans la bride, pour enfin serrer avec l'écrou à la main puis à l'aide d'une clé. 
+
 ![Photo montrant le capteur de température et les 4 fils sertis](pictures/assembly/AG1-3.JPG)
+
  - Enfoncer chacun des fil dans le connecteur JST. En suivant le schéma ci-dessous. 
+
 ![Schèma d'implantation des fils du capteur.](pictures/assembly/connectique_4b_capteur.png)
 ![Photo montrant le capteur de température et le connecteur JST en place](pictures/assembly/AG1-3B.JPG)
 
@@ -29,8 +33,12 @@ Attention ! Avant de positionner les ferrures dans le bloc connecteur JST, il fa
 
  - Souder ces deux connecteurs duponts comme suit. 
 
-<section style="border: 2px solid red; padding: 20px; border-radius:20px; color: red;">Attention à veiller à souder les broches sur les emplacements externes,</section>
- - et à positionner les pattes à l'opposé de l'emplacement de la pile. 
+<section style="border: 2px solid red; padding: 20px; border-radius:20px; color: red;"><b>Attention</b> à veiller à :
+<li>Souder les broches sur les emplacements externes</li>
+<li>Positionner les broches à l'opposé de l'emplacement de la pile. </li>
+<li>Souder les broches les plus courtes.</li>
+<li>Veiller à maintenir les broches bien perpendiculaire à la plaque. </li>
+</section>
 
 ![On a soudé les deux broches duponts sur la carte d'horloge RTC](pictures/assembly/AG1-5.JPG)
 
@@ -81,7 +89,7 @@ Le circuit secondaire, va permettre dans un premier temps de faciliter les conne
 ![Implantation fil de data bleu](pictures/assembly/AG1-15.JPG)
 
  - Souder un pont (fil vert) entre les lignes 4 et 13. Il s'agit du SCL, l'horloge pour la lecture du capteur de température. 
- - Souder un pont (fil blanc) entre les lignes 6 et 14. Il s'agit du SDA, le fil de datas pour la lecture du capteur de température. 
+ - Souder un pont (fil blanc) entre les lignes 5 et 14. Il s'agit du SDA, le fil de datas pour la lecture du capteur de température. 
 
 ![Implantation fil vert SCL et blanc SDA](pictures/assembly/AG1-16.JPG)
 
@@ -143,7 +151,7 @@ Attention avant de passer à l'étape suivante, il est important de placer le vo
 ![Enfilage](pictures/assembly/AG1-26.JPG)
 
  - Ne pas graisser le joint qui est en compression. 
- - Serrer à la main légèrement l'écrou sans bloquer.
+ - Serrer à la main pui à l'aide d'une clé.
 
 ![Serrage voyant](pictures/assembly/AG1-27.JPG)
 
@@ -172,7 +180,7 @@ Attention avant de passer à l'étape suivante, il est important de placer le vo
 ![Rallonge, capteur](pictures/assembly/AG1-32.JPG)
 
 ### 1.7 Rallonge de la carte microcontrôleur
- - Rassembler 5 fils (noir, rouge, blanc, vert et bleu), 5 ferrures femelles JST, 1 bloc JST 5 broches femelles, 5 ferrures dupont femelles et deux bloc dupont 4 broches. 
+ - Rassembler 5 fils (noir, rouge, blanc, vert et bleu) de 10 cm environ, 5 ferrures femelles JST, 1 bloc JST 5 broches femelles, 5 ferrures dupont femelles et deux bloc dupont 4 broches. 
  - Dénuder les fils. Sur chcun de fil, sertir une ferrure femelle JST d'un bout et de l'autre une ferrure dupont femelle.
  - Insérer les ferrures JST dans le bloc JST à 5 broches dans le sens indiqué.
 
@@ -182,8 +190,7 @@ Attention avant de passer à l'étape suivante, il est important de placer le vo
  
 ![Connecteur Dupont, carte micro controleur](pictures/assembly/AG1-34.JPG)
 
-## 2/ Assemblage final
-### 2.1 Fixation du switch
+### 1.8 Fixation du switch
  - Rassembler tous les composants du switch étanche. C'est à dire, le pénétrateur, le bouton rotatif, l'écrou et 3 joints dont un est plus épais que les deux autres. 
 
 ![Rassembler pour switch](pictures/assembly/AG1-35.JPG)
@@ -192,7 +199,7 @@ Attention avant de passer à l'étape suivante, il est important de placer le vo
 
 ![Insertion joint torique](pictures/assembly/AG1-36.JPG)
 
- - Serrer à la main sans bloquer à l'aide de l'écrou. 
+ - Serrer à la main puis à l'aide d'une clé. 
  - Retirer l'écrou (argenté) se trouvant sur le bouton poussoir.
  - Visser le bouton poussoir au bout (coté intérieur) du pénétrateur switch.
  
@@ -212,3 +219,50 @@ Attention avant de passer à l'étape suivante, il est important de placer le vo
 
 <section style="border: 2px solid red; padding: 20px; border-radius:20px; color: red;">
 Attention ! Laisser le bouton ouvert (le courant ne peut passer) pour les étapes suivantes et surtout avant de brancher la batterie au reste du circuit.</section>
+
+## 1.9 Installation de la mise à l'air libre
+ - Rassembler le bouchon de mise àl'aire libre (ou vent) et tous ces accessoires ( 1 pénétrateur, 3 joints toriques, 1 écrou.)
+
+## 2. Assemblage final
+### 2.1 Agencement intérieur
+ - Rassembler la bride qui acuillera le capteur de température et ses joints toriques.
+
+<section style="border: 1px solid green; padding: 20px; border-radius:20px; color: green;">
+ⓘ Info ! Dans notre cas, une de nos deux brides étaint composé d'une flange à insérer dans le tube et d'une plaque d'aluminium percé que l'on vissait sur la flange. Les dernières versions commercialisés sont faites d'un seul bloc.</section>
+ - Graisser à l'aide de graisse silicone au doigt les deux joints.
+ - Les insérer dans leurs gorges respectives. 
+ - Rassembler la rondelle R1, 4 vis M3*6mm et la bride contenant le capteur de température.
+ - Visser R1 sur la bride comportant le capteur de température. 
+ - Assembler le support S1 avec la rondelle R1 et la R2, de manière à positionner l'encoche arrondi de S1 du coté de R1. 
+ - Placer la batterie sur son support S1 au moyens de deux colliers de serrages. 
+ - Ces dernier devront passer dans les encoches sur le coté du support S1 afin de ne pas gêner l'insertion de l'ensemble dans le tube. 
+ - Passer les câble de la batterie et du capteur de température au travers de R2. 
+ - Rassembler le support S2, la carte adafruit addlogger, la carte RTC (les désolidariser) et 4 vis M2,5*5mm. 
+ - Visser la carte RTC sur le support S1 en respectant lesens sur la photo. 
+ - En dessous de la carte RTC brancher la carte adafruit addaloger M0.
+ - Rassembler la carte secondaire et 2 vis M3*5mm. 
+ - Visser la carte secondaire sur le support S1 comme présenté sur la photo ci-dessous. 
+ - Positionner les rondelles R3 et R4 à chaque extrémité de S2. R3 viendra coté carte secondaire et R4 coté circuit RTC.
+
+### 2.2 Branchements
+ - A l'aide du câble fabriqué à 4 fils, relier le capteur de température au connecteur JST 4 broches de la carte secondaire. 
+ - Faire de même avec la rallonge du voyant lumineux qui permettra de relier le voyant au bloc 2 broches de la carte secondaire. 
+ - Brancher le câble de la batterie, premièrement sur le switch puis sur la carte adafruit addaloger M0 puis connecter la batterie. 
+ - Connecter le câble (5 fils), connecteur JST femelle sur le conecteur 5 broches de la carte secondaire. 
+ - Connecter les autres extrémités sur les broches du RTC comme indiqué sur le schéma ci-dessous. 
+
+### 2.3 Fermeture du tube
+ - Insérer le tout dans le tube.
+ - Enfoncer la bride contenant le capteur de température d'un bout. 
+ - Veiller à ce que l'encoche soit placé dans l'encoche du tube PMMA. 
+
+<section style="border: 2px solid red; padding: 20px; border-radius:20px; color: red;">
+Attention ! Afin de fermer un tube étanche : 
+<li>Ne pas forcer, graisser les joints légèrement et sans surplus.</li>
+<li>Veiller aux éléments fragiles comme le capteur de température</li>
+<li>Ouvrir le bouchon de la mise à l'air libre pour ne pas créer de surpression</li>
+</section>
+ - Fermer la bride du coté opposé. 
+
+### 2.4 Points d'accrochages
+ - Chambr à air, colliers de serrages et bout. 
