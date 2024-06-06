@@ -1,4 +1,8 @@
-# Guide d'assemblage
+# C. Guide d'assemblage (v1.0)
+Ce présent guide d'assemblage, suppose que vous ayez réalisés les étapes précédentes et nottamment l'étape du sourcing. Vérifiez avoir reçu tous les composants avant de commencer. 
+Avant de réaliser le montage de la sonde, il peut-être utile de vérifier le bon fonctionnement des capteurs. Pour cela suivez les protocoles de tests disponibles en Annexes de ce chapitre. 
+ - [Tester le capteur de temprérature](0-0-1_test_temp-sensor.md)
+ - [Tester l'horloge RTC](0-0-1_test_set_rtc-ds3231.md)
 
 ## 1/ Préparations, câblages et soudures
 ### 1.1 Connectique du capteur de température
@@ -107,18 +111,18 @@ Le circuit secondaire, va permettre dans un premier temps de faciliter les conne
 
 ![Rallonge des fils de la batterie](pictures/assembly/AG1-18.JPG)
 
- - Rassembler, la batterie, un connecteur femelle JST à 3 broches (je n'avais pas de 2 broches dans ma boite) et 3 ferrures JST femelles.
+ - Rassembler, la batterie, un connecteur femelle JST à 3 broches (je n'avais pas de 2 broches dans ma boite) et 2 ferrures JST femelles.
  - Dénuder un fil de la batterie, et y sertir une ferrure femelle. 
  - Insérer cette ferrure dans le bloc 3 broches JST mâle. Veiller à respecter le même sens que sur la photo.
  - Faire de même avec le second fil et l'insérer dans le bloc JST à l'opposé du premier.
 
 ![Implantation du connecteur JST batterie](pictures/assembly/AG1-19.JPG)
 
- - Rassembler, les fils du boutons (switch) étanche, un connecteur JST de batterie, un connecteur JST mâle 3 broches et 2 ferrures mâle.
+ - Rassembler, les fils du bouton (switch) étanche, un connecteur JST de batterie, un connecteur JST mâle 3 broches et 2 ferrures mâle.
 
 ![Fournitures pour câblage bouton](pictures/assembly/AG1-20.JPG)
 
- - Couper un fil du switch au ras du connecteur dupont. Dénuder le fil et le souder au fil rouge du connecteur JST batterie. Protéger la soudure avec de la gaine thermorétractable.
+ - Couper un fil du switch au ras du connecteur dupont. Dénuder le fil, passer la gaine thermorétractable, puis souder au fil rouge du connecteur JST batterie. Protéger la soudure avec de la gaine thermorétractable.
 
 ![Soudure fil bouton au fil connecteur](pictures/assembly/AG1-21.JPG)
 
@@ -220,36 +224,48 @@ Attention avant de passer à l'étape suivante, il est important de placer le vo
 <section style="border: 2px solid red; padding: 20px; border-radius:20px; color: red;">
 Attention ! Laisser le bouton ouvert (le courant ne peut passer) pour les étapes suivantes et surtout avant de brancher la batterie au reste du circuit.</section>
 
-## 1.9 Installation de la mise à l'air libre
+### 1.9 Installation de la mise à l'air libre
  - Rassembler le bouchon de mise àl'aire libre (ou vent) et tous ces accessoires ( 1 pénétrateur, 3 joints toriques, 1 écrou.)
 
 ## 2. Assemblage final
 ### 2.1 Agencement intérieur
- - Rassembler la bride qui acuillera le capteur de température et ses joints toriques.
+ - Rassembler la bride qui acueillera le capteur de température et ses joints toriques.
 
 <section style="border: 1px solid green; padding: 20px; border-radius:20px; color: green;">
 ⓘ Info ! Dans notre cas, une de nos deux brides étaint composé d'une flange à insérer dans le tube et d'une plaque d'aluminium percé que l'on vissait sur la flange. Les dernières versions commercialisés sont faites d'un seul bloc.</section>
  - Graisser à l'aide de graisse silicone au doigt les deux joints.
+ ![Graisser les joints](pictures/assembly/AG2-1.jpg)
  - Les insérer dans leurs gorges respectives. 
  - Rassembler la rondelle R1, 4 vis M3*6mm et la bride contenant le capteur de température.
  - Visser R1 sur la bride comportant le capteur de température. 
+  ![Rassembler la rondelle R1 et la bride](pictures/assembly/AG2-2.jpg)
  - Assembler le support S1 avec la rondelle R1 et la R2, de manière à positionner l'encoche arrondi de S1 du coté de R1. 
+ ![Assembler S1 avec R1 et R2](pictures/assembly/AG2-3.jpg)
  - Placer la batterie sur son support S1 au moyens de deux colliers de serrages. 
+ ![Placer la batterie](pictures/assembly/AG2-4.jpg)
  - Ces dernier devront passer dans les encoches sur le coté du support S1 afin de ne pas gêner l'insertion de l'ensemble dans le tube. 
  - Passer les câble de la batterie et du capteur de température au travers de R2. 
  - Rassembler le support S2, la carte adafruit addlogger, la carte RTC (les désolidariser) et 4 vis M2,5*5mm. 
- - Visser la carte RTC sur le support S1 en respectant lesens sur la photo. 
- - En dessous de la carte RTC brancher la carte adafruit addaloger M0.
+ - Visser la carte RTC sur le support S1 en respectant le sens sur la photo. 
+ ![Assembler S2 avec la carte adafruit addlogger](pictures/assembly/AG2-5.jpg)
+ - En dessous de la carte RTC brancher la carte adafruit addalogger M0.
+  ![Brancher la carte adafruit addalogger sous la carte RTC](pictures/assembly/AG2-6.jpg)
  - Rassembler la carte secondaire et 2 vis M3*5mm. 
  - Visser la carte secondaire sur le support S1 comme présenté sur la photo ci-dessous. 
+  ![Visser la carte secondaire sur le support S1](pictures/assembly/AG2-7.jpg)
  - Positionner les rondelles R3 et R4 à chaque extrémité de S2. R3 viendra coté carte secondaire et R4 coté circuit RTC.
 
 ### 2.2 Branchements
  - A l'aide du câble fabriqué à 4 fils, relier le capteur de température au connecteur JST 4 broches de la carte secondaire. 
- - Faire de même avec la rallonge du voyant lumineux qui permettra de relier le voyant au bloc 2 broches de la carte secondaire. 
- - Brancher le câble de la batterie, premièrement sur le switch puis sur la carte adafruit addaloger M0 puis connecter la batterie. 
+ - Faire de même avec la rallonge du voyant lumineux qui permettra de relier le voyant au bloc 2 broches de la carte secondaire.
  - Connecter le câble (5 fils), connecteur JST femelle sur le conecteur 5 broches de la carte secondaire. 
- - Connecter les autres extrémités sur les broches du RTC comme indiqué sur le schéma ci-dessous. 
+![Branchement connecteurs carte secondaire](pictures/assembly/AG2-9.jpg)
+ - Brancher le câble de la batterie, premièrement sur le switch puis sur la carte adafruit addaloger M0 puis connecter la batterie. 
+![Branchement batterie](pictures/assembly/AG2-10.jpg)
+ - Connecter les autres extrémités sur les broches du RTC comme indiqué sur le schéma ci-dessous.
+![Branchement carte secondaire](pictures/assembly/AG2-12.png)
+ - Insérer la pile bouton du RTC dans son logement. 
+![Insérer pile bouton du RTC](pictures/assembly/AG2-11.jpg)
 
 ### 2.3 Fermeture du tube
  - Insérer le tout dans le tube.
@@ -263,6 +279,13 @@ Attention ! Afin de fermer un tube étanche :
 <li>Ouvrir le bouchon de la mise à l'air libre pour ne pas créer de surpression</li>
 </section>
  - Fermer la bride du coté opposé. 
+ - Rassembler les deux tiges en plastiques souple, les rondelles de blocages et les 2 vis de serrage fourni avec les brides.
+![Visser la carte secondaire sur le support S1](pictures/assembly/AG2-8.jpg) 
+ - Monter ces goupilles souples en plaçant la rondelle à l'extrémité de chacune de tiges de plastique souple. 
+ - Insérer ces goupilles entre le tube et la bride pour bloquer l'ouverture du tube. 
 
 ### 2.4 Points d'accrochages
- - Chambr à air, colliers de serrages et bout. 
+ - Rassembler de la chambre à air de vélo usagé, 2 colliers de serrages et du bout de 4 mm.
+ - A chaque extrémité, du tube, positionner un collier de serrage sur une bande de chambre à air de vélo. 
+ - Y coincer un morceau de bout de manière à faire une boucle.  
+ - Recouvrir le tout de chaterton.

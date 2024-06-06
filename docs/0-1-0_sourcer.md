@@ -1,4 +1,4 @@
-# Nomenclature / Le sourcing
+# A. Nomenclature / Le sourcing (V1.0)
 
 Le sourcing est la première étape du projet et souvent la plus fastidieuse. Sourcer désigne le fait de rassembler tout ce qui sera nécéssaire pour fabriquer un objet libre. Ce projet demande des composants que l'on trouvera chez un grand-nombre de fournisseurs différents. De plus, ces fournisseurs peuvent différer en fonction du lieu et du moment où l'on va construire un instrument.
 

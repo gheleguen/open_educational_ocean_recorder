@@ -5,12 +5,14 @@ edit_uri: -/edit/main/docs/
 nav:
   - Introduction: index.md
   - I. Guide de fabrication:
-    - 1/ Sourcer : 0-0-1_sourcer.md
-    - 2/ Guide d'assemblage: 0-0-1_guide_assemblage.md
+    - A. Sourcer: 0-1-0_sourcer.md
+    - B. Préparation des pièces: 0-1-0_productions_of_parts_fr.md
+    - C. Guide d'assemblage: 0-1-0_guide_assemblage.md
+    - D. Programmer la sonde: 0-1-0_guide_upload.md
     - Ax/ Annexes:
-      - Test capteur de température: 0-0-1_test_temp-sensor.md
-      - Réglage de l'horloge RTC: 0-0-1_test_set_rtc-ds3231.md
-  - II. Guide d'utilisation: 0-0-1_user_guide.md
+      - Tester le capteur de température: 0-0-1_test_temp-sensor.md
+      - Tester l'horloge RTC: 0-0-1_test_set_rtc-ds3231.md
+  - II. Guide d'utilisation: 0-1-0_user_guide.md
   - III. Contribuer : edit-this-doc_fr.md
   - Licence: license.md
 

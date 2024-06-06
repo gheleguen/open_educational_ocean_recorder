@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.72693603"
-     inkscape:cx="568.82585"
-     inkscape:cy="298.5132"
+     inkscape:cx="568.82584"
+     inkscape:cy="299.88884"
      inkscape:window-width="1870"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -77,10 +77,6 @@
        id="g5"
        transform="matrix(1.4507661,0,0,1.4507661,-11.190588,-34.314314)"
        style="stroke-width:0.689291">
-      <path
-         style="color:#000000;fill:#f3f3f3;stroke:#101010;stroke-width:0.344646;stroke-dasharray:none;stroke-opacity:1"
-         d="m 32.189529,94.115234 v 4.865235 H 96.30281 v -4.865235 z"
-         id="path4-2-7" />
       <rect
          style="fill:#bbadad;fill-opacity:1;stroke-width:0.182661;stroke-linecap:round"
          id="rect2"
@@ -110,21 +106,45 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:56.419px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.689291"><tspan
            x="376.07031"
            y="84.99367"
-           id="tspan6"><tspan
+           id="tspan2"><tspan
              style="font-weight:bold"
-             id="tspan4">JST Mâle 4 broches</tspan></tspan></text>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:3.3534;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="M 96.55281,61.150926 H 32.439509"
-         id="path4" />
-      <path
-         style="fill:none;stroke:#00b800;stroke-width:3.3534;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="M 96.55281,78.849637 H 32.439506"
-         id="path4-2" />
-      <path
-         style="fill:none;stroke:#c90000;stroke-width:3.3534;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="M 96.55281,114.24706 H 32.439502"
-         id="path4-2-7-6" />
+             id="tspan1">JST Mâle 4 broches</tspan></tspan></text>
+      <g
+         id="g4"
+         transform="translate(0,18.899332)">
+        <path
+           style="fill:none;stroke:#00b800;stroke-width:3.3534;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="M 96.55281,78.849637 H 32.439506"
+           id="path4-2" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,12.910247,31.210788)"
+           id="text31728-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:40.2992px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-2);display:inline;fill:#00b800;fill-opacity:1;stroke:none;stroke-width:0.689291"><tspan
+             x="169.95117"
+             y="164.2244"
+             id="tspan4"><tspan
+               style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+               id="tspan3">vert - SCL</tspan></tspan></text>
+      </g>
+      <g
+         id="g2"
+         transform="translate(0.077677,-17.944689)">
+        <path
+           style="color:#000000;fill:#f3f3f3;stroke:#101010;stroke-width:0.344646;stroke-dasharray:none;stroke-opacity:1"
+           d="m 32.189529,94.115234 v 4.865235 H 96.30281 v -4.865235 z"
+           id="path4-2-7" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,7.0758254,48.49049)"
+           id="text31728-9-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:40.2992px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-2-9);display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.689291;stroke-opacity:1"><tspan
+             x="169.95117"
+             y="164.2244"
+             id="tspan6"><tspan
+               style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+               id="tspan5">blanc - SDA</tspan></tspan></text>
+      </g>
       <rect
          style="fill:#bbadad;fill-opacity:1;stroke-width:0.182661;stroke-linecap:round"
          id="rect1"
@@ -132,46 +152,42 @@
          height="76.447762"
          x="96.052834"
          y="49.475113" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,12.910247,31.210788)"
-         id="text31728-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:40.2992px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-2);display:inline;fill:#00b800;fill-opacity:1;stroke:none;stroke-width:0.689291"><tspan
-           x="169.95117"
-           y="164.2244"
-           id="tspan8"><tspan
-             style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-             id="tspan7">vert - SCL</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,7.0758254,48.49049)"
-         id="text31728-9-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:40.2992px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-2-9);display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.689291;stroke-opacity:1"><tspan
-           x="169.95117"
-           y="164.2244"
-           id="tspan10"><tspan
-             style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-             id="tspan9">blanc - SDA</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,5.4525212,67.053144)"
-         id="text31728-9-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:40.2992px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-2-7);display:inline;fill:#c90000;fill-opacity:1;stroke:none;stroke-width:0.689291"><tspan
-           x="169.95117"
-           y="164.2244"
-           id="tspan12"><tspan
-             style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-             id="tspan11">rouge - 3,3v</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,5.1985196,14.403809)"
-         id="text31728-9-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:40.2992px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-2-73);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.689291"><tspan
-           x="169.95117"
-           y="164.2244"
-           id="tspan14"><tspan
-             style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-             id="tspan13">noir - masse</tspan></tspan></text>
+      <g
+         id="g1"
+         transform="translate(0,-54.843887)">
+        <path
+           style="fill:none;stroke:#c90000;stroke-width:3.3534;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="M 96.55281,114.24706 H 32.439502"
+           id="path4-2-7-6" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,5.4525212,67.053144)"
+           id="text31728-9-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:40.2992px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-2-7);display:inline;fill:#c90000;fill-opacity:1;stroke:none;stroke-width:0.689291"><tspan
+             x="169.95117"
+             y="164.2244"
+             id="tspan8"><tspan
+               style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+               id="tspan7">rouge - 3,3v</tspan></tspan></text>
+      </g>
+      <g
+         id="g6"
+         transform="translate(0,54.114378)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.3534;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="M 96.55281,61.150926 H 32.439509"
+           id="path4" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,5.1985196,14.403809)"
+           id="text31728-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:40.2992px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31730-2-73);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.689291"><tspan
+             x="169.95117"
+             y="164.2244"
+             id="tspan10"><tspan
+               style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+               id="tspan9">noir - masse</tspan></tspan></text>
+      </g>
     </g>
   </g>
 </svg>
