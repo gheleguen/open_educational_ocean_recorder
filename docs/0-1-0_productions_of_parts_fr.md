@@ -3,7 +3,7 @@
 
 Imprimer toutes les pièces nécessaires en veillant à respecter les recommandations de remplissage des pièces extérieurs. 
 
- * [Les fichiers STL sont disponibles ici](https://github.com/gheleguen/open_educational_ocean_recorder/hardware/3Dprints/v0-1-0).
+ * [Les fichiers STL sont disponibles ici](https://github.com/gheleguen/open_educational_ocean_recorder/tree/main/hardware/3Dprints/v0-1-0).
 
 ![POP1-0.png](pictures/productions_of_parts/nomenclature_3D.png)
 
