@@ -14,7 +14,8 @@ Ce présent guide détail le programme de la sonde de température. En aucun cas
 
 ## 2/ Programme
 Le programme (Software) de la sonde de température est disponible dans l'archive au chemin suivant : ```/software/0-1-0_software_temp/0-1-0_software_temp.ino.```
- - [Télécharger le programme au format .ino](https://github.com/gheleguen/open_educational_ocean_recorder/blob/main/software/0-1-0_software_temp/0-1-0_software_temp.ino)
+
+ * [Télécharger le programme au format .ino](https://github.com/gheleguen/open_educational_ocean_recorder/blob/main/software/0-1-0_software_temp/0-1-0_software_temp.ino)
 
 
 ### 2.1 Détail du programme
