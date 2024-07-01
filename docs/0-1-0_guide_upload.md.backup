@@ -16,18 +16,16 @@ board-index/package_adafruit_index.json" après la mention "Additional Boards Ma
  * Cliquer sur "OK"
  * Puis naviguer dans "Tools", "Board" et "Boards Manager"
  * Dans le Board manager, chercher "Adafruit SAMD Boards" et installer la librairie correspondante.
-![Capture d'écran](pictures/guide_upload/GU1-2.png)
  * Dans le même menu, chercher "Arduino SAMD Bords" puis l'installer. 
 ![Capture d'écran](pictures/guide_upload/GU1-1.png)
  * Redémarrer Arduino IDE.
  * Une fois l'IDE redémarré, aller sélectionner la bonne carte électronique dans "Tools", "Boards" puis "adafruit SAMD" et sélectionner la carte "Adafruit Feather M0".
-![Capture d'écran](pictures/guide_upload/GU1-3.png)
  * Sélectionner le bon port com dans "Tools" puis "Port". Si il vous est inconnue, chercher l'information dans le gestionnaire de périphériques de Windows. 
  
 ### 1.3 Installer les librairies
  * Pour installer les librairies, se rendre dans le menu "Tools" puis "Manage librairies".
  * A l'aide de la barre de recherche, chercher et installer les librairies : "RTClib" (choisir la librairie proposé par Adafruit), et la librairie ["TSYS01"](https://github.com/bluerobotics/BlueRobotics_TSYS01_Library.git) (Librairie pour le capteur de température Blue robotics). 
-
+![Capture d'écran](pictures/guide_upload/GU1-2.png)
 
 ## 2/ Programme
 Le programme (Software) de la sonde de température est disponible dans l'archive au chemin suivant : ```/software/0-1-0_software_temp/0-1-0_software_temp.ino.```
